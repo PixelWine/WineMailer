@@ -30,11 +30,11 @@
 
 目前 在中国大陆提供了以下的下载方式：
 
-[蓝奏云](https://blog.pixelwine.top/golink/4b06h2z)
+[蓝奏云](https://pixelwine.lanzoub.com/iITkUwhy3lc)
 
 中国大陆以外的地区：
 
-[GitHub](https://blog.pixelwine.top/golink/jtt2h1h)
+[GitHub](https://github.com/PixelWine/WineMailer/releases)
 
 ## Thanks
 
@@ -44,6 +44,6 @@
 
 对内容提供者表示感谢~
 
-[Python GUI 编程(Tkinter) | 菜鸟教程 (runoob.com)](https://blog.pixelwine.top/golink/xyiki9a)
+[Python GUI 编程(Tkinter) | 菜鸟教程 (runoob.com)](https://www.runoob.com/python/python-gui-tkinter.html)
 
-[简单三步，用 Python 发邮件 - 知乎 (zhihu.com)](https://blog.pixelwine.top/golink/1jimswc)
+[简单三步，用 Python 发邮件 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/24180606)
